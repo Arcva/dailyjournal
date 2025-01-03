@@ -88,7 +88,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             <div class="col">
               <div class="card" style="width: 25rem; margin-left: 35%; margin-top: 15%;">
                 <div class="card-body">
-                  <h1>Login</h1>
+                  <h1>welcome to my daily journal</h1>
                     <?php
                     $username = 'admin';
                     $passwors = '123456';
